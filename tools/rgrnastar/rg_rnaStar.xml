@@ -507,6 +507,7 @@
 
             <output name="chimeric_junctions" file="test3.chimjunc.tabular"/>
         </test>
+
         <test>
             <param name="input1" value="tophat_in2.fastqsanger" ftype="fastqsanger" />
             <param name="geneSource" value="history" />
