@@ -121,10 +121,6 @@
             --alignMatesGapMax 200000
             --alignIntronMax 200000
 
-            ## --twopass1readsN 100000000  
-            ## --chimSegmentReadGapMax 3              ## not an option in STAR 2.4.0
-            ## --alignSJstitchMismatchNmax 5 -1 5 5   ## not an option in STAR 2.4.0
-
         #elif str( $params.settingsType ) == "full":
             ## Extended parameter options
 
